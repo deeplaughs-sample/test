@@ -1,1 +1,1 @@
-This is just an example README.md
+This is just an example
